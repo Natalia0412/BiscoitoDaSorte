@@ -22,4 +22,4 @@ Biscoito da sorte(https://monosnap.com/file/L3ZOwX50Ja3Ds1qouBCx4zugOmLlYo)
 
 ##### Imagem do Projeto
 
-(https://monosnap.com/file/02sDw9Hj50qMYHIn4yaWS8qzJYbMa3)
+![Pagina Inicial](https://github.com/Natalia0412/BiscoitoDaSorte/blob/main/React App - Biscoito da Sorte Frase.png)
