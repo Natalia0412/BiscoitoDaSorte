@@ -18,3 +18,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### Link para visualizar o projeto
 Biscoito da sorte(https://monosnap.com/file/L3ZOwX50Ja3Ds1qouBCx4zugOmLlYo)
+
+
+##### Imagem do Projeto
+
+(https://monosnap.com/file/02sDw9Hj50qMYHIn4yaWS8qzJYbMa3)
